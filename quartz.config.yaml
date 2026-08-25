@@ -192,10 +192,16 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: david8128/MecaMundo
+        repoId: R_kgDOUDdAIg
+        category: Announcements
+        categoryId: DIC_kwDOUDdAIs4DELCw
+        mapping: pathname
+        lang: es
     layout:
       position: afterBody
       priority: 10
