@@ -2,9 +2,9 @@
 title: Mecamundo
 ---
 
-> *Hacer de la curiosidad algo conocido y de algo desconocido una curiosidad mayor*
+> _Hacer de la curiosidad algo conocido y de algo desconocido una curiosidad mayor_
 
-> *El conocimiento y la prudencia hacen de un ingeniero un gran ser humano*
+> _El conocimiento y la prudencia hacen de un ingeniero un gran ser humano_
 
 Bienvenido a **Mecamundo** — un wiki personal de notas, ideas y recursos.
 

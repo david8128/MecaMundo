@@ -13,21 +13,27 @@ Ser lo que Dios ama de cada uno — pues con Dios se consigue lo que el dinero n
 ## Valores y principios
 
 ### Energía
+
 La energía como fuerza de vida, de trabajo y de transformación.
 
 ### Eco-sostenibilidad y Solar Punk
+
 Un compromiso con el futuro del planeta desde el diseño y la ingeniería responsable.
 
 ### La IA y la magnífica humanitas
+
 La inteligencia artificial al servicio del florecimiento humano — no al contrario.
 
 ### Inteligencia y pensamiento crítico creativo
+
 Pensar bien, preguntar mejor, crear con propósito.
 
 ### Inteligencia emocional
+
 Comprender y gestionar las propias emociones para conectar con los demás.
 
 ### Cuidado y bienestar siempre y en toda situación
+
 El bienestar propio y ajeno como condición de todo lo demás.
 
 ---

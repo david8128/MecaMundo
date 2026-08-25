@@ -14,7 +14,7 @@ title: Aprendizaje
 
 Mantenerse motivado celebrando cada semestre y cada logro.
 
-> *Mi padre me recordó que Dios me bendijo con un buen trabajo — pero hay una mayor.*
+> _Mi padre me recordó que Dios me bendijo con un buen trabajo — pero hay una mayor._
 
 ---
 
