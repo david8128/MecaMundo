@@ -1,0 +1,50 @@
+---
+title: Aprendizaje
+---
+
+## Principios del aprendizaje activo
+
+- **Ser agentes del propio aprendizaje** — no esperar que otros decidan qué y cómo aprender.
+- **Entre todos se construye** un bienestar estudiantil y condiciones óptimas de aprendizaje e investigación.
+- **Vinculación dinámica** con los mercados laborales.
+
+---
+
+## Motivación
+
+Mantenerse motivado celebrando cada semestre y cada logro.
+
+> *Mi padre me recordó que Dios me bendijo con un buen trabajo — pero hay una mayor.*
+
+---
+
+## IA como herramienta de estudio
+
+Usar la IA para entrenarse en los exámenes, pero **no esperar que la IA haga todo**.
+
+---
+
+## Recursos de video
+
+- [Video 1](https://youtu.be/uznXwy9J0bo?si=DBe0Amnb9CXYSakB)
+- [Video 2](https://youtu.be/u7G-fpWZNJU?si=aASCsVgMSauNxwMe)
+- [Video 3](https://youtu.be/iJ1iGc8D73M?si=d-vNXfBo2BE9XCci)
+
+---
+
+## Filosofía abierta
+
+- **Open source** — el conocimiento compartido avanza más rápido.
+- **Open hardware** — la ingeniería abierta democratiza la tecnología.
+
+---
+
+## Notas académicas
+
+- Siglas y terminología frecuente
+- Consejos de inscripción: electivas y obligatorias
+- Prerrequisitos de las materias
+- Tips de libros recomendados
+- Robótica de Chocó
+- Física de semiconductores
+- Papa (recursos adicionales)
