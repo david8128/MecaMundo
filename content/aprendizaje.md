@@ -26,9 +26,10 @@ Usar la IA para entrenarse en los exámenes, pero **no esperar que la IA haga to
 
 ## Recursos de video
 
-- [Video 1](https://youtu.be/uznXwy9J0bo?si=DBe0Amnb9CXYSakB)
-- [Video 2](https://youtu.be/u7G-fpWZNJU?si=aASCsVgMSauNxwMe)
-- [Video 3](https://youtu.be/iJ1iGc8D73M?si=d-vNXfBo2BE9XCci)
+- [Estas son las carreras que dominarán el mundo en 2030 y la IA no podrá quitarte](https://youtu.be/uznXwy9J0bo?si=DBe0Amnb9CXYSakB)
+- [MAGNIFICA HUMANITAS: El Papa León XIV vs. la Inteligencia Artificial (IA) 🤖 | Resumen Completo](https://youtu.be/u7G-fpWZNJU?si=aASCsVgMSauNxwMe)
+- [El hacker de Tumaco que sin terminar el colegio es referente mundial en ciberseguridad](https://youtu.be/iJ1iGc8D73M?si=d-vNXfBo2BE9XCci)
+
 
 ---
 
