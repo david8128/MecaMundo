@@ -16,8 +16,8 @@ Todo el material de estudio, notas y documentos está organizado en Google Drive
 
 ## Videos recomendados
 
-- [Estas son las carreras que dominarán el mundo en 2030 y la IA no podrá quitarteVideo 1](https://youtu.be/uznXwy9J0bo?si=DBe0Amnb9CXYSakB)
-- [MAGNIFICA HUMANITAS: El Papa León XIV vs. la Inteligencia Artificial (IA) 🤖 | Resumen CompletoVideo 2](https://youtu.be/u7G-fpWZNJU?si=aASCsVgMSauNxwMe)
+- [Estas son las carreras que dominarán el mundo en 2030 y la IA no podrá quitarte](https://youtu.be/uznXwy9J0bo?si=DBe0Amnb9CXYSakB)
+- [MAGNIFICA HUMANITAS: El Papa León XIV vs. la Inteligencia Artificial (IA) 🤖 | Resumen Completo](https://youtu.be/u7G-fpWZNJU?si=aASCsVgMSauNxwMe)
 - [El hacker de Tumaco que sin terminar el colegio es referente mundial en ciberseguridad](https://youtu.be/iJ1iGc8D73M?si=d-vNXfBo2BE9XCci)
 
 ---
