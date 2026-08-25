@@ -1,5 +1,5 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@david8128/mecamundo",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "5.0.0",
@@ -9,7 +9,7 @@
   "homepage": "https://quartz.jzhao.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/david8128/MecaMundo.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
