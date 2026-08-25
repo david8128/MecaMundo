@@ -27,7 +27,7 @@ This plugin accepts the following configuration options:
   enabled: true
   options:
     links:
-      GitHub: https://github.com/jackyzha0/quartz
+        GitHub: https://github.com/david8128/MecaMundo
       Discord Community: https://discord.gg/cRFFHYye7t
 ```
 
