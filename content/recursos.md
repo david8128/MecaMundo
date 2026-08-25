@@ -8,6 +8,10 @@ Todo el material de estudio, notas y documentos está organizado en Google Drive
 
 [📁 Abrir carpeta de recursos en Google Drive](https://drive.google.com/drive/folders/13-cxnU-Ten2Av2rnk9wSz7Gux82t3JZz?usp=drive_link)
 
+[📐 Dibujo Básico](https://drive.google.com/drive/folders/0B_ucasPiKEeWQW5QTlhwZlRpU1U?resourcekey=0-QLBiEWzRXOtd6JCnYWKReA&usp=drive_link)
+
+[⚙️ Tecnología Mecánica Básica](https://drive.google.com/drive/folders/1j5gFU03pjppIZNUzge3nDLHofpKJK3TG?usp=drive_link)
+
 ---
 
 ## Videos recomendados
